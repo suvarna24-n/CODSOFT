@@ -1,16 +1,32 @@
-# 🎯 Task 1 - Number Guessing Game (CodSoft Internship)
+# Task 2
 
-This is Task 1 of my CodSoft Java Development Internship.
+## Student Grade Calculator (CodSoft Internship)
 
-## 💡 What it does:
-- The program randomly selects a number between 1 and 100.
-- The user tries to guess it within limited attempts.
-- The program gives feedback: "Too high", "Too low", or "Correct!".
-- After guessing right or using all chances, the user can play again.
+This is Task 2 of my CodSoft Java Development Internship.
 
-## 🛠️ Tech Used:
-- Java
+---
+
+## What it does:
+
+- The program allows the user to input marks for multiple subjects.
+- It calculates the total marks and the average percentage.
+- Based on the percentage, it displays the final grade:
+  - A: 90% and above
+  - B: 80–89%
+  - C: 70–79%
+  - D: 60–69%
+  - F: Below 60%
+- Clear and user-friendly output for each result.
+
+---
+
+## Tech Used:
+
+- Java  
 - VS Code
 
-## ✅ Status:
-- Task Completed
+---
+
+## Status:
+
+Task Completed
