@@ -1,32 +1,27 @@
-# Task 2
+# Task 3
 
-## Student Grade Calculator (CodSoft Internship)
+ATM Interface (CodSoft Internship)
 
-This is Task 2 of my CodSoft Java Development Internship.
+This is Task 3 of my CodSoft Java Development Internship.
 
----
+# What it does:
 
-## What it does:
-
-- The program allows the user to input marks for multiple subjects.
-- It calculates the total marks and the average percentage.
-- Based on the percentage, it displays the final grade:
-  - A: 90% and above
-  - B: 80–89%
-  - C: 70–79%
-  - D: 60–69%
-  - F: Below 60%
-- Clear and user-friendly output for each result.
-
----
+- Prompts the user to enter a **User ID** and **PIN**.
+- Authenticates the user using predefined credentials.
+- Displays an ATM menu with the following options:
+  - **Check Balance**
+  - **Deposit Money**
+  - **Withdraw Money**
+  - **Exit**
+- Performs each operation based on user input.
+- Provides proper messages for invalid inputs and insufficient balance.
+- Exits safely when the user chooses to.
 
 ## Tech Used:
 
 - Java  
-- VS Code
+- VS Code  
 
----
+# Status:
 
-## Status:
-
-Task Completed
+Task Completed 
